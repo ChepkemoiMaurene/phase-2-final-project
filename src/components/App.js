@@ -24,19 +24,18 @@ function App() {
   return (
     <div>
      <Navbar/>
-     <hr></hr>
      <Switch>
       <Route exact path='/about'>
         <AboutUs/>
       </Route>
-      <Route exact path="/contactus">
+      <Route exact path="/contactUs">
         <ContactUs/>
       </Route>
-      <Route  exact path="bookappointment">
+      <Route  exact path="/bookappointment">
         <BookAppointment/>
       </Route>
       <Route exact path="/">
-        <Home/>
+        <Home data={data}/>
       </Route>
 
      </Switch>
