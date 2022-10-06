@@ -1,26 +1,28 @@
 {
-  "workout": [
-    {
+  "workout": [{
       "id": 1,
       "package": "silver",
       "trainer": "jack harlow",
-      "type":"fullbody",
-      "image url":" https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.muscleandfitness.com%2Froutine%2Fworkouts%2Fworkout-routines%2Fthe-best-full-body-muscle-workout%2F&psig=AOvVaw28ZH5xsFrBSC4Ycz-h7TUk&ust=1664900142214000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCLDOhsG6xPoCFQAAAAAdAAAAABAD"
+      "type": "fullbody",
+      "image_url":"https://cdn.xxl.thumbs.canstockphoto.com/beautiful-concentrated-fitness-girl-doing-stretching-exercise-pictures_csp32493388.jpg",
+      "description":"It sounds pretty obvious, right? Working your whole body is going to mean that you're not prioritising one muscle group over another and will also mean you're building a well-rounded physique. But it's not just us saying that, there's a body of scientific research that's reached that conclusion too. For example, a study published in the Journal of Strength and Conditioning Research found that full-body workouts resulted in a superior hypertrophic effect, when compared with a traditional bodybuilding split where each muscle is trained once per week. In other words, if you want big muscles, full body workouts are how you build them."
     },
     {
-      "id":2,
-  "package":"platinum",
-  "trainer":"hamza",
-  "type":"aerobics",
-  "image url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.verywellfit.com%2Fbest-online-aerobics-classes-5113454&psig=AOvVaw1llaefCNibsfrgI7JClqPU&ust=1664900192785000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCPjFttm6xPoCFQAAAAAdAAAAABAE"
+      "id": 2,
+      "package": "platinum",
+      "trainer": "hamza",
+      "type": "aerobics",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbqDQd0wo2EChYyk1m8PE5rRVSCDJ1tIdEdw&usqp=CAU",
+      "description":"Aerobic exercise provides cardiovascular conditioning. The term aerobic actually means \"with oxygen,\" which means that breathing controls the amount of oxygen that can make it to the muscles to help them burn fuel and move."
     },
-    
-{
-"id":3,
-      "package":"gold",
-      "trainer":"thee pluto",
-      "type":"belly and thighs",
-      "image url":"https://www.shape.com/thmb/TImDHfzcrQDd8nYdEhGt7U66hDg=/2000x2000/filters:fill(auto,1)/Triple-Threat-Workout-GettyImages-685041425-2000-4a753ee8ec924cdd816616f1ec003f9f.jpg"
+
+    {
+      "id": 3,
+      "package": "gold",
+      "trainer": "thee pluto",
+      "type": "belly and thighs",
+      "image_url": "https://s3-us-west-1.amazonaws.com/contentlab.studiod/5/21/f0bf93ac60364c7f98e80e44b8bcee9b.jpg",
+      "description":"Begin in a side plank position with one elbow and forearm rooted into the ground, legs stacked on top of each other (or one in front of the other for more stability). Raise your top arm toward the sky."
     }
   ]
 }
