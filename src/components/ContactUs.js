@@ -1,9 +1,15 @@
-import React from 'react'
+// import React from 'react'
 
-function ContactUs() {
-  return (
-    <div>ContactUs</div>
-  )
-}
+// function ContactUs({data}) {
+//   const  findData=data.map((everyData)=>(
+//     <>
 
-export default ContactUs
+
+//     </>
+//   ))
+//   return (
+//     <div>ContactUs</div>
+//   )
+// }
+
+// export default ContactUs
