@@ -1,24 +1,38 @@
 import React from 'react'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
-function ContactUs({data}) {
-  const  findData=data.map((everyData)=>(
-    <>
-<div>
-     <img src='https://media.istockphoto.com/vectors/fitness-vector-abstract-design-templatedesign-for-gym-and-fitness-vector-id1144084265?k=20&m=1144084265&s=612x612&w=0&h=t4m6NE8NRCQIOLSFMmtj1qlfJJPao-t8GQ8jVPEulLw=' alt='logo'></img>
-     <h1>Tsunami website</h1>
-     <img src="https://fontawesome.com/icons/facebook" alt='facebook'></img>
-     <img src="https://fontawesome.com/icons/twitter" alt="twitter"></img>
-     <img src="https://fontawesome.com/icons/instagram"alt="insta"></img>
-     <p></p>
 
-</div>
-
-    </>
-  ))
+function ContactUs(){
+  
   return (
-    <div>ContactUs
-    {findData}
+    <>
+   <h2 style={{textAlign:"center", color:"red"}}>Want to reach Us?</h2>
+    <div className='contactSection'>
+      <div className='contactCard'>
+        <h3>Talk to Customer Care</h3>
+        <p>Do you have any questions regarding our packages?
+          and our company? <br/>
+          Talk to our Customercare
+        </p>
+        <span style={{textAlign:"center", color:"red" ,fontWeight:"600", fontSize:"18px"}} ><p>+2547112000900</p></span>
+        
+      </div>
+      <div className='contactCard'>
+        <h3>Talk to personal Trainer</h3>
+        <p>
+          Do you have any questions about your training program?
+          Reach out to your trainer
+        </p>
+        <span style={{textAlign:"center", color:"red",fontWeight:"600", fontSize:"18px"}}><p>+2547112345676</p></span>
+      </div>
+      <div className='contactCard'>
+        <h3>Check our Social media pages</h3>
+        <p>talk to us via our social media handles @Tsunamigym in facebook instagram and twitter</p>
+        
+      </div>
+      
     </div>
+    </>
   )
 }
 
