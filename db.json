@@ -1,5 +1,6 @@
 {
-  "workout": [{
+  "workout": [
+    {
       "id": 1,
       "package": "silver",
       "trainer": "jack harlow",
@@ -24,5 +25,23 @@
       "image_url": "https://s3-us-west-1.amazonaws.com/contentlab.studiod/5/21/f0bf93ac60364c7f98e80e44b8bcee9b.jpg",
       "description":"Begin in a side plank position with one elbow and forearm rooted into the ground, legs stacked on top of each other (or one in front of the other for more stability). Raise your top arm toward the sky."
     }
+  ],
+  "book":[
+    {
+      "id":1,
+      "email":"mail",
+      "fullname":"mail",
+      "date":"mail",
+      "tel":""
+    },
+    {
+      "id":2,
+      "email":"mail",
+      "fullname":"mail",
+      "date":"mail",
+      "tel":""
+    }
+    
+
   ]
 }
