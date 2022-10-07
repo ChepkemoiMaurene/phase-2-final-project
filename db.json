@@ -5,8 +5,8 @@
       "package": "silver",
       "trainer": "jack harlow",
       "type": "fullbody",
-      "image_url":"https://cdn.xxl.thumbs.canstockphoto.com/beautiful-concentrated-fitness-girl-doing-stretching-exercise-pictures_csp32493388.jpg",
-      "description":"It sounds pretty obvious, right? Working your whole body is going to mean that you're not prioritising one muscle group over another and will also mean you're building a well-rounded physique. But it's not just us saying that, there's a body of scientific research that's reached that conclusion too. For example, a study published in the Journal of Strength and Conditioning Research found that full-body workouts resulted in a superior hypertrophic effect, when compared with a traditional bodybuilding split where each muscle is trained once per week. In other words, if you want big muscles, full body workouts are how you build them."
+      "image_url": "https://cdn.xxl.thumbs.canstockphoto.com/beautiful-concentrated-fitness-girl-doing-stretching-exercise-pictures_csp32493388.jpg",
+      "description": "It sounds pretty obvious, right? Working your whole body is going to mean that you're not prioritising one muscle group over another and will also mean you're building a well-rounded physique. But it's not just us saying that, there's a body of scientific research that's reached that conclusion too. For example, a study published in the Journal of Strength and Conditioning Research found that full-body workouts resulted in a superior hypertrophic effect, when compared with a traditional bodybuilding split where each muscle is trained once per week. In other words, if you want big muscles, full body workouts are how you build them."
     },
     {
       "id": 2,
@@ -14,34 +14,52 @@
       "trainer": "hamza",
       "type": "aerobics",
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbqDQd0wo2EChYyk1m8PE5rRVSCDJ1tIdEdw&usqp=CAU",
-      "description":"Aerobic exercise provides cardiovascular conditioning. The term aerobic actually means \"with oxygen,\" which means that breathing controls the amount of oxygen that can make it to the muscles to help them burn fuel and move."
+      "description": "Aerobic exercise provides cardiovascular conditioning. The term aerobic actually means \"with oxygen,\" which means that breathing controls the amount of oxygen that can make it to the muscles to help them burn fuel and move."
     },
-
     {
       "id": 3,
       "package": "gold",
       "trainer": "thee pluto",
       "type": "belly and thighs",
       "image_url": "https://s3-us-west-1.amazonaws.com/contentlab.studiod/5/21/f0bf93ac60364c7f98e80e44b8bcee9b.jpg",
-      "description":"Begin in a side plank position with one elbow and forearm rooted into the ground, legs stacked on top of each other (or one in front of the other for more stability). Raise your top arm toward the sky."
+      "description": "Begin in a side plank position with one elbow and forearm rooted into the ground, legs stacked on top of each other (or one in front of the other for more stability). Raise your top arm toward the sky."
     }
   ],
-  "book":[
+  "book": [
     {
-      "id":1,
-      "email":"mail",
-      "fullname":"mail",
-      "date":"mail",
-      "tel":""
+      "id": 1,
+      "email": "mail",
+      "fullname": "mail",
+      "date": "mail",
+      "tel": ""
     },
     {
-      "id":2,
-      "email":"mail",
-      "fullname":"mail",
-      "date":"mail",
-      "tel":""
+      "id": 2,
+      "email": "mail",
+      "fullname": "mail",
+      "date": "mail",
+      "tel": ""
+    },
+    {
+      "email": "baurene.chepkemoi@studevt.moringaschool.com",
+      "date": "2022-10-07",
+      "fullname": "Mimo",
+      "tel": "+254711118299230",
+      "id": 3
+    },
+    {
+      "email": "baurene.chepkemoi@studevt.moringaschool.com",
+      "date": "2022-10-07",
+      "fullname": "Mimo",
+      "tel": "+254711118299230",
+      "id": 4
+    },
+    {
+      "email": "baurene.chepkemoi@studevt.moringaschool.com",
+      "date": "2022-10-07",
+      "fullname": "Mimo",
+      "tel": "+254711118299230",
+      "id": 5
     }
-    
-
   ]
 }
