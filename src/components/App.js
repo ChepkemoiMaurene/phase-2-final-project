@@ -24,6 +24,7 @@ function App() {
   return (
     <div>
      <Navbar/>
+     <hr/>
      <Switch>
       <Route exact path='/about'>
         <AboutUs/>
