@@ -51,4 +51,20 @@
   cursor: pointer;
   border:2px solid orangered
 }
+.fa{
+  font-size: 32px;
+ 
+}
+.contactSection{
+  display: flex;
+  justify-content: space-around;
+  width: 80%;
+  margin: auto;
+}
+.contactCard{
+  width: 30%;
+  height: 350px;
+  border: 1px solid whitesmoke;
+  box-shadow: 4px 2px grey;
 
+}
