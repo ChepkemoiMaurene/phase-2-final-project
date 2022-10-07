@@ -3,7 +3,7 @@ import React from 'react'
 function AboutUs() {
  
   return (
-    <div> 
+    <div style={{width:"80%", margin:"auto"}}> 
 <h1> WELCOME TO TSUNAMI GYM</h1>
 <p>Get your desired body  using our qualified trainers and healthy meal plans offered to you by our able trainers</p>
   
